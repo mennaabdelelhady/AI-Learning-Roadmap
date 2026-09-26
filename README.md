@@ -1,4 +1,4 @@
-# AI Learning Roadmap 🧠
+[# AI Learning Roadmap 🧠
 
 Tracking my self-study path through free university AI/ML courses — from foundations to building real LLM-powered features.
 
@@ -93,3 +93,4 @@ Tracking my self-study path through free university AI/ML courses — from found
 ## Notes
 - Keep this file updated as I go — check boxes, don't rewrite history.
 - Log any useful links, gotchas, or code snippets in `/notes/` per stage.
+](https://youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy&si=7bfiLR48w_Rfniwi)
